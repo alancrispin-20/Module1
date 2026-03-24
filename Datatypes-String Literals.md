@@ -11,6 +11,7 @@ To write a Python program to read a string from the user and then print it.
 ## 🧾 Program:
 
 text = input("Enter a string: ")
+
 print("You entered:", text)
 
 ## Output:
