@@ -25,11 +25,13 @@ print("a or b =", a or b)
 
 print("not a =", not a)
 
+
 print("True + True =", True + True)
 
 print("True + False =", True + False)
 
 print("False + False =", False + False)
+
 
 print("True * 5 =", True * 5)
 
